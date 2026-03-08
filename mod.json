@@ -4,5 +4,6 @@
   "author": "oooo",
   "description": "unlock the research.",
   "version": "1.0",
-  "minGameVersion": "145"
+  "minGameVersion": "154",
+  "main": "main"
 }
