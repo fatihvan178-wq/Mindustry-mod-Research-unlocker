@@ -1,9 +1,10 @@
 {
   "name": "research-unlockker",
   "displayName": "Research unlocker",
-  "author": "oooo",
+  "author": "mdmodmm",
   "description": "unlock the research.",
   "version": "1.0",
   "minGameVersion": "154",
-  "main": "main"
+  "main": "main", 
+  "hidden": true
 }
